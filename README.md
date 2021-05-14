@@ -2,6 +2,28 @@
 
 A new Flutter application.
 
+# Screenshots
+
+<table>
+
+  <tr>
+    <td valign="top"><img src="/ss/pary.png" ></td>
+ 
+ 
+ </tr>
+ 
+  <tr>
+ <td valign="top"><img src="/ss/pary (1).png"  ></td>
+ 
+ </tr>
+ 
+ 
+ </table>
+
+
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
