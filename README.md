@@ -1,6 +1,6 @@
-# clima_flutter
+# Clima
 
-A new Flutter application.
+Weather App based on flutter with real time weather and temperature updates and search by city weather updates. 
 
 # Screenshots
 
